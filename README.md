@@ -15,4 +15,5 @@ In this project I need a sharp end effector for Robot Fighting to be able to exp
 
 
 ## Final Designe 
-<img width="1275" alt="Screen Shot 1442-12-13 at 5 35 53 AM" src="https://user-images.githubusercontent.com/74800962/126733631-dc3179a2-d894-4b20-ad72-d33248dec160.png">
+<img width="1042" alt="Screen Shot 1442-12-13 at 6 21 46 AM" src="https://user-images.githubusercontent.com/74800962/126734303-ab2137d8-ce25-45a0-8daf-b6f3da266d81.png">
+
